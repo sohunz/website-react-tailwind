@@ -59,7 +59,7 @@ const Cards = () => {
                         <p className="py-2 border-b mx-8">10 Users Allowed</p>
                         <p className="py-2 border-b mx-8">Send up to 50 GB</p>
                     </div>
-                    <button className="py-2 bg-[#61dbfb] outline-none text-black text-md w-[130px] mx-auto rounded-sm my-5 mx-auto">
+                    <button className="py-2 bg-[#61dbfb] outline-none text-black text-md w-[130px] mx-auto rounded-sm my-5">
                         Start Trail
                     </button>
                 </div>
